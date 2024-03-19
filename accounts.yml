@@ -1,11 +1,11 @@
 build:
-  version: "v4.0"
+  version: "v5.0"
 
 contact:
   message: "Bank System - Account APIs"
   details:
     name: "Marco Antonio Celis Morales - Developer"
-    email: "mcelis@outlook.com"
+    email: "mcel@outlook.com"
   phone-numbers:
     -(57) 311-494-7050
     -(57) 300-245-0123
