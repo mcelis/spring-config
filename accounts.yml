@@ -1,8 +1,8 @@
 build:
-  version: "v3.0"
+  version: "v4.0"
 
 contact:
-  message: "Bank System - Account API"
+  message: "Bank System - Account APIs"
   details:
     name: "Marco Antonio Celis Morales - Developer"
     email: "mcelis@outlook.com"
